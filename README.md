@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Saini (@shubhsaini11)
 - 👀 I’m currently persuing my B.Tech with specialization in Cyber Security & Forensics.
-- 🌱 I’m currently learning C language, Java core, Python, DSA.
+- 🌱 I know SQL, Java, HTML5, CSS3, JavaScript, ReactJs, MongoDB and I also know C language and learning DSA.
 - 💞️ My hobbies are - playing volleyball, cricket and i love to sing as well.
 - 📫 You can contact me through - mail id (shubhsaini1911@gmail.com)
       - LinkedIn https://www.linkedin.com/in/sainishubh11
